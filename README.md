@@ -1,12 +1,12 @@
 Pangolin
 ========
 
-To view the web application, go [here](https://ancient-bayou-7999.herokuapp.com/).
+To view the web application, go [here](https://immense-scrubland-5069.herokuapp.com/).
 
 Deployment
 ----------
 #heroku login
-#heroku git:remote -a ancient-bayou-7999
+#heroku git:remote -a immense-scrubland-5069
 #git push heroku master
 
 Reference
